@@ -1,1 +1,2 @@
 CONFIG_EXTRA_FIRMWARE="i915/kbl_dmc_ver1_01.bin i915/kbl_guc_ver9_14.bin i915/kbl_huc_ver02_00_1810.bin i915/kbl_dmc_ver1_04.bin i915/kbl_guc_ver9_39.bin ath10k/QCA6174/hw3.0/board.bin ath10k/QCA6174/hw3.0/board-2.bin ath10k/QCA6174/hw3.0/firmware-4.bin ath10k/QCA6174/hw3.0/firmware-6.bin qca/rampatch_usb_00000302.bin qca/nvm_usb_00000302.bin regulatory.db regulatory.db.p7s"
+
